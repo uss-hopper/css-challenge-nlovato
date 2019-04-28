@@ -62,5 +62,8 @@ body { width: 100%;}
 * * Attribute Selectors
 ******************************************************/
 
+body {
+	font-family: Beirut, "serif";
+}
 
 
