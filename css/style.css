@@ -66,4 +66,16 @@ body {
 	font-family: Beirut, "serif";
 }
 
+header {
+	color: lime;
+	background-color: #373a37;
+	font-size: 1.35rem;
+}
+
+h1 {
+	text-decoration-color: lime;
+	display: inline-block;
+	margin-right: 2rem;
+
+}
 
