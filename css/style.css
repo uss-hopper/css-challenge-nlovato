@@ -72,7 +72,7 @@ body {
 
 header {
 	color: lime;
-	background-color: #373a37;
+	background-color: darkgray;
 	font-size: 1.35rem;
 }
 
@@ -122,8 +122,43 @@ h1 {
 }
 
 /*
+* Contact form
+ */
+
+.form-wrapper{
+	background-color: green;
+	color: lime;
+}
+
+label {
+	display: block;
+	margin: 30px 5px 0;
+}
+
+input, textarea {
+	width: 40%;
+	padding: 8px;
+}
+
+button {
+	background-color: lime;
+	padding: 20px 30px;
+	font-weight: bold;
+	font-size: 3rem;
+	border: none;
+}
+
+/*
 * Footer
  */
+
+footer {
+	background-color: black;
+	color: whitesmoke;
+	text-align: center;
+}
+
+
 
 
 
