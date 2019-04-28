@@ -79,10 +79,14 @@ h1 {
 
 }
 
-img {
-	display: block;
-	margin: 0 auto 2rem;
-	width: 400px;
-	align-content: center;
+.instructions-wrapper {
+	border-style: solid;
+	margin: auto;
+	width: 700px;
 }
+
+.instructions-wrapper img {
+	text-align: center;
+}
+
 
