@@ -66,6 +66,10 @@ body {
 	font-family: Beirut, "serif";
 }
 
+/*
+* Style header
+ */
+
 header {
 	color: lime;
 	background-color: #373a37;
@@ -79,6 +83,10 @@ h1 {
 
 }
 
+/*
+* Style welcome to my homepage
+ */
+
 .instructions-wrapper {
 	border-style: solid;
 	margin: auto;
@@ -88,5 +96,34 @@ h1 {
 .instructions-wrapper img {
 	text-align: center;
 }
+
+.container img {
+	width:30% ;
+	height: 30%;
+	border-style: solid;
+	border-color: white;
+}
+
+/*
+* Style about me
+ */
+
+.about-me {
+	color: white;
+	background-color: blue ;
+;
+}
+.span {
+	text-emphasis: gold;
+}
+.form-wrapper{
+	color: green;
+	background-color: grey;
+}
+
+/*
+* Footer
+ */
+
 
 
